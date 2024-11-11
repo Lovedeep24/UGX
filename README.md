@@ -1,2 +1,3 @@
 To run the code "npm run dev"
-![Screenshot (151)](https://github.com/user-attachments/assets/7481fa91-9aee-418b-a546-821826c9a04e)
+
+![Screenshot (151)](https://github.com/user-attachments/assets/db1e59e9-eac7-4951-a063-0125f1465b67)
